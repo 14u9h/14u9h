@@ -1,17 +1,14 @@
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/14u9h/14u9h/main/developer.gif"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=14u9h&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 </p>
-<p>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=14u9h&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
-</p>
-<p>
-  
 
+  
 
 ### Hi I'm 14u9h 👋
 
 > 人是会思考的芦苇
-</p>
+> --帕斯卡尔
 
 <!--
 **14u9h/14u9h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
